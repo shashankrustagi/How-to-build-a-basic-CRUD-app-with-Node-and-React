@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/static/css/main.c6fb4c28.css",
+    "main.js": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/static/js/main.61bb23e0.js",
+    "static/js/453.97589799.chunk.js": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/static/js/453.97589799.chunk.js",
+    "index.html": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/index.html",
+    "main.c6fb4c28.css.map": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/static/css/main.c6fb4c28.css.map",
+    "main.61bb23e0.js.map": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/static/js/main.61bb23e0.js.map",
+    "453.97589799.chunk.js.map": "/How-to-build-a-basic-CRUD-app-with-Node-and-React/static/js/453.97589799.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fb4c28.css",
+    "static/js/main.61bb23e0.js"
+  ]
+}
